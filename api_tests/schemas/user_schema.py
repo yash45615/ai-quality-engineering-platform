@@ -1,0 +1,19 @@
+USER_SCHEMA = {
+    "type": "object",
+    "required": [
+        "id",
+        "name",
+        "email"
+    ],
+    "properties": {
+        "id": {
+            "type": "integer"
+        },
+        "name": {
+            "type": "string"
+        },
+        "email": {
+            "type": "string"
+        }
+    }
+}

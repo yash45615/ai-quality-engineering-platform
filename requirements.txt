@@ -1,0 +1,13 @@
+pytest
+pytest-playwright
+pytest-xdist
+pytest-html
+requests
+python-dotenv
+locust
+openai
+allure-pytest
+Appium-Python-Client
+selenium
+Faker
+jsonschema
